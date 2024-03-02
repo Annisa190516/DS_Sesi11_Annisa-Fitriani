@@ -1,0 +1,5 @@
+"Epic","Feature","Story","FAILED","BROKEN","PASSED","SKIPPED","UNKNOWN"
+"","Product Filtering by Price Low to High: Annisa filters products by price low to high","","0","0","12","2","0"
+"","Swag Labs - Add cart to checkout: Annisa purchases a product","","0","0","26","0","0"
+"","Swag Labs - Login - Positive: As a standard_user, I want to log in successfully","","0","0","7","1","0"
+"","Swag Labs - Login - Negative: As a locked_out_user, I should get error message","","0","0","8","0","0"
